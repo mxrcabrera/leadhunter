@@ -1,0 +1,10 @@
+{
+  "google": {
+    "apiKey": "",
+    "cx": ""
+  },
+  "ollama": {
+    "url": "http://localhost:11434",
+    "model": "mistral"
+  }
+}

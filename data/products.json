@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": "expensas",
+      "name": "Sistema de Gestión de Expensas",
+      "short_name": "ExpensasApp",
+      "description": "Sistema automatizado para la generación, envío y seguimiento de expensas de consorcios y edificios. Permite calcular automáticamente los gastos, distribuirlos entre propietarios, y enviar las liquidaciones por email o WhatsApp.",
+      "keywords": [
+        "consorcio",
+        "consorcios",
+        "expensas",
+        "edificio",
+        "edificios",
+        "administrador",
+        "administracion",
+        "administración",
+        "propiedad horizontal",
+        "propiedades",
+        "encargado",
+        "copropietarios",
+        "liquidacion",
+        "liquidación",
+        "gastos comunes"
+      ],
+      "value_prop": "Automatiza el envío de expensas, elimina errores de cálculo y permite a los propietarios consultar su estado de cuenta online en cualquier momento.",
+      "target_audience": "Administradores de consorcios, inmobiliarias con gestión de edificios, consorcios autoadministrados",
+      "features": [
+        "Cálculo automático de expensas ordinarias y extraordinarias",
+        "Distribución proporcional por coeficiente",
+        "Envío automático por email y WhatsApp",
+        "Portal web para propietarios",
+        "Registro de pagos y deudores",
+        "Reportes y estadísticas mensuales"
+      ],
+      "pain_points": [
+        "Cálculos manuales en Excel propensos a errores",
+        "Horas perdidas distribuyendo expensas una por una",
+        "Reclamos de propietarios por falta de información",
+        "Dificultad para trackear quién pagó y quién debe",
+        "Sin historial accesible para propietarios"
+      ],
+      "search_queries": [
+        "administracion de consorcios",
+        "administrador de edificios",
+        "administracion de edificios"
+      ]
+    },
+    {
+      "id": "pilates",
+      "name": "Sistema de Gestión para Estudios de Pilates",
+      "short_name": "PilatesGest",
+      "description": "Plataforma integral para gestionar turnos, alumnos, pagos y clases de estudios de pilates, yoga y gimnasios boutique. Los alumnos reservan desde su celular y vos te olvidás de coordinar por WhatsApp.",
+      "keywords": [
+        "pilates",
+        "estudio pilates",
+        "yoga",
+        "estudio yoga",
+        "clases",
+        "turnos",
+        "reformer",
+        "mat",
+        "instructor",
+        "instructora",
+        "gimnasio",
+        "gimnasio boutique",
+        "fitness",
+        "entrenamiento"
+      ],
+      "value_prop": "Tus alumnos reservan turnos online, vos cobrás automáticamente y tenés el control total de tu estudio desde una sola plataforma.",
+      "target_audience": "Dueños de estudios de pilates, instructores independientes, centros de yoga, gimnasios boutique, entrenadores personales",
+      "features": [
+        "Reserva de turnos online 24/7",
+        "Gestión de packs, membresías y clases sueltas",
+        "Cobro automático con MercadoPago",
+        "App para que alumnos vean sus turnos",
+        "Control de asistencia y no-shows",
+        "Lista de espera automática",
+        "Recordatorios por WhatsApp"
+      ],
+      "pain_points": [
+        "WhatsApp colapsado de mensajes para reservar turnos",
+        "No-shows y cancelaciones de último momento",
+        "Cobros atrasados y perseguir alumnos para que paguen",
+        "Pérdida de alumnos por mala experiencia de reserva",
+        "No saber cuántos lugares quedan disponibles en tiempo real"
+      ],
+      "search_queries": [
+        "estudio de pilates",
+        "clases de pilates",
+        "estudio de yoga"
+      ]
+    }
+  ],
+  "default_settings": {
+    "default_location": "Argentina",
+    "message_tone": "profesional_cercano",
+    "message_length": "corto",
+    "max_words": 80
+  }
+}

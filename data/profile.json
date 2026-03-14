@@ -1,0 +1,205 @@
+{
+  "name": "Mar Cabrera",
+  "full_name": "Marianella Cabrera Ahumada",
+  "email": "cabreramxr@gmail.com",
+  "location": "Buenos Aires, Argentina",
+  "timezone": "UTC-3",
+  "portfolio": "https://mxrcabrera-dev-portfolio.netlify.app/",
+  "github": "https://github.com/mxrcabrera",
+  "linkedin": "https://linkedin.com/in/mxrcabrera",
+  "years_experience": 10,
+
+  "summary": "Senior Full Stack Developer with 10+ years crafting solutions beyond mere code. I build complex systems balancing technical excellence with business impact, transforming challenges into software that empowers users while driving measurable results.",
+
+  "core_tech": [
+    ".net", "dotnet", ".net core", ".net 8", "asp.net", "asp.net mvc", "c#", "csharp",
+    "react", "reactjs", "react.js",
+    "typescript", "javascript", "node", "nodejs", "node.js", "next.js", "nextjs",
+    "postgresql", "postgres", "sql server", "mssql",
+    "entity framework", "ef core",
+    "rest api", "restful", "restful apis", "microservices",
+    "blazor"
+  ],
+
+  "secondary_tech": [
+    "azure", "azure functions", "azure devops",
+    "redis", "docker", "rabbitmq", "message queues", "service bus", "activemq",
+    "angular", "tailwind", "bootstrap", "html", "css",
+    "mysql", "mariadb", "oracle", "firebase",
+    "git", "ci/cd", "agile", "scrum", "kanban",
+    "postman", "jira",
+    "wordpress", "shopify", "optimizely", "seo",
+    "python", "php", "laravel",
+    "ddd", "cqrs"
+  ],
+
+  "domains": [
+    "logistics", "shipping", "e-commerce", "ecommerce",
+    "healthcare", "health", "medical",
+    "fintech", "finance", "payments",
+    "saas", "b2b", "platform",
+    "community", "management system",
+    "fuel management", "parking", "fleet management"
+  ],
+
+  "experience_summary": [
+    {
+      "company": "BUKU Ship",
+      "role": "Software Engineer",
+      "period": "2024-2025",
+      "remote_for": "US company",
+      "tech": [".NET Core 8", "C#", "Blazor", "PostgreSQL", "REST APIs", "Postman", "Git"],
+      "domain": "Logistics/Shipping",
+      "description": "Designed carrier-agnostic adapter system unifying shipping provider APIs for seamless integration with international logistics providers. Optimized PostgreSQL schema for high-frequency tracking updates and built real-time notification architecture reducing communication delays."
+    },
+    {
+      "company": "Solvo Global",
+      "role": "ASP.NET Core Developer",
+      "period": "2023-2024",
+      "remote_for": "US company",
+      "tech": ["ASP.NET Core", "C#", "Azure Functions", "Azure DevOps", "MySQL", "REST APIs", "LINQ", "Kanban"],
+      "domain": "Healthcare E-commerce",
+      "description": "Created custom domain models for DefyED health e-commerce platform and engineered caching strategies that improved mobile responsiveness. Restructured API endpoints to better align with business processes, improving development velocity for new feature implementation."
+    },
+    {
+      "company": "Outlier",
+      "role": "AI Training Specialist",
+      "period": "2023",
+      "tech": ["Python", "NLP", "Machine Learning", "Conversational Design"],
+      "domain": "AI/ML",
+      "description": "Developed comprehensive evaluation framework that improved chatbot response accuracy by 28%. Created specialized NLP testing scripts in Python identifying 40+ edge cases. Implemented response optimization techniques increasing user satisfaction by 22%."
+    },
+    {
+      "company": "CH2 Solutions",
+      "role": ".NET Engineer",
+      "period": "2021-2022",
+      "remote_for": "US company",
+      "tech": ["ASP.NET Core", "C#", "SQL Server", "Redis", "Docker", "Bootstrap", "REST APIs", "Azure DevOps", "Scrum"],
+      "domain": "Community Management",
+      "description": "Redesigned Frontsteps facility reservation system eliminating concurrency issues and created modular permission framework. Optimized database query patterns reducing page load times for community dashboards accessed by thousands of users."
+    },
+    {
+      "company": "Urbetrack",
+      "role": ".NET Software Developer",
+      "period": "2022-2023",
+      "tech": ["Entity Framework", "NHibernate", "C#", "SQL Server", "RabbitMQ", "Message Queues", "Redis", "Docker", "Scrum"],
+      "domain": "Urban/Fleet Management",
+      "description": "Urban Hygiene sector software. Migrated .NET 4.6.1 to 4.8.1. WebForms with HTML5/Bootstrap, Razor views. Backend with RESTful APIs, LINQ. Scalable and maintainable solution."
+    },
+    {
+      "company": "Editorial Perfil S.A.",
+      "role": "PHP Developer",
+      "period": "2021",
+      "tech": ["PHP", "Laravel", "FTP"],
+      "domain": "Media",
+      "description": "Restored document/image upload system after ransomware attack. Learned PHP/Laravel from scratch. Improved system reliability by 50%, reduced technical debt by 40%."
+    },
+    {
+      "company": "Kiltex S.A.",
+      "role": ".NET Software Developer",
+      "period": "2019-2020",
+      "remote_for": "Argentina company",
+      "tech": ["ASP.NET Core", "Entity Framework", "C#", "Microservices", "REST APIs", "MariaDB", "SQL Server", "MySQL", "Redis", "Docker", "Scrum"],
+      "domain": "Fuel Management",
+      "description": "Developed key microservices for Ationet's refactored architecture and built transaction reconciliation system improving financial accuracy. Created dynamic UI for parking management system adapting to different facility configurations without code changes."
+    },
+    {
+      "company": "BA-Telco S.A.",
+      "role": "Support Analyst in Engineering",
+      "period": "2018-2020",
+      "tech": [".NET Framework", "Entity Framework", "C#", "Oracle SQL", "Jira", "Scrum"],
+      "domain": "Telecommunications",
+      "description": "Oracle database administration for fiber optic network. .NET tasks for data extraction to Excel and email automation. Fiber optic network mapping using Bentley Fiber."
+    },
+    {
+      "company": "Workana Freelance",
+      "role": "Software Frontend Engineer",
+      "period": "2016-2018",
+      "tech": ["ASP.NET Framework", "Entity Framework", "MVC", "Bootstrap", "SQL Server", "Git"],
+      "domain": "Healthcare",
+      "description": "Medical system for Spanish Hospital Argentina. Patient, Treatment, Evolution, Doctor, Shifts modules. Frontend with HTML/CSS/Bootstrap/JavaScript. Ongoing maintenance and extensions."
+    },
+    {
+      "company": "Cencosud S.A.",
+      "role": "Frontend Developer",
+      "period": "2015",
+      "tech": ["VTEX", "HTML/CSS", "JavaScript", "Adobe Creative Suite"],
+      "domain": "E-commerce/Retail",
+      "description": "SEO strategies and web layouts for Jumbo, Disco, Vea brands. Designed Hotsale promotional pages. VTEX platform for e-commerce configuration."
+    },
+    {
+      "company": "Deloitte & Co. S.R.L.",
+      "role": "Malware Analysis Intern",
+      "period": "2014-2015",
+      "tech": ["Python", "Excel", "Assembly"],
+      "domain": "Cybersecurity",
+      "description": "Ransomware incident monitoring and analysis. Python scripts for data extraction. Assembly language training for malware behavior."
+    },
+    {
+      "company": "Taligent S.A.",
+      "role": "Business Intelligence Designer",
+      "period": "2014",
+      "tech": ["QlikView", "Qlik Sense", "SQL Server", "HTML/CSS", "JavaScript"],
+      "domain": "Business Intelligence",
+      "description": "SQL stored procedures for dashboards in QlikView. Mashups with HTML/CSS/JavaScript for Qlik Sense. Data visualization for clients like Transener and Día."
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Modular Survey SDK & Analytics API",
+      "tech": ["React", "TypeScript", "Node.js", "Express.js", "PostgreSQL", "Tailwind CSS"],
+      "description": "Reusable React/TypeScript SDK plus a Node/Express API to serve surveys, collect answers and expose aggregated metrics. PostgreSQL for storage, strict typing and modular architecture. Dark-mode UI, star-rating, real-time validation, progress bars, health-check endpoint."
+    },
+    {
+      "name": "Optimizely Mini Project",
+      "tech": ["Next.js", "Optimizely", "React"],
+      "description": "Mini project showcasing skills with Optimizely, including feature flags, A/B testing, responsive content personalization, and event tracking using React hooks."
+    },
+    {
+      "name": "AI Interview Agent",
+      "tech": ["React", "Vite", "Tailwind CSS"],
+      "description": "AI-powered interview platform for investment research with avatar-based interactions, real-time recording capabilities, and automated insights generation. Features smart follow-up questions and sentiment analysis."
+    },
+    {
+      "name": "Professional Matching Platform",
+      "tech": ["React.js", "Node.js", "Express.js", "Tailwind CSS", "Mercado Pago API"],
+      "github": "https://github.com/mxrcabrera/local-upwork",
+      "description": "AI-powered platform parsing resumes, extracting profiles, tailoring job applications. User authentication, role-based access control, real-time notification system."
+    },
+    {
+      "name": "Personal Portfolio",
+      "tech": ["Astro", "Next.js", "React.js", "Tailwind CSS", "Netlify", "Optimizely"],
+      "url": "https://mxrcabrera-dev-portfolio.netlify.app/",
+      "description": "Portfolio built with Astro and Next.js for optimal performance. Responsive layouts, includes Task Management Application with drag-and-drop functionality."
+    }
+  ],
+
+  "side_projects": [
+    {
+      "name": "E-commerce Maintenance (Resino & Ronix)",
+      "period": "2022-Present",
+      "tech": ["WordPress", "Shopify", "HTML/CSS", "Photoshop", "SEO"],
+      "description": "Product catalog maintenance, image optimization, pricing updates, SEO optimizations."
+    }
+  ],
+
+  "education": {
+    "degree": "Information Systems Engineering (In Progress)",
+    "institution": "Universidad Abierta Interamericana",
+    "period": "2020-Present"
+  },
+
+  "languages": {
+    "english": "C1+",
+    "spanish": "Native"
+  },
+
+  "looking_for": {
+    "type": ["freelance", "contract", "contractor"],
+    "remote": true,
+    "locations_ok": ["remote", "latam", "latin america", "south america", "argentina", "worldwide", "global", "international", "anywhere", "distributed", "async"],
+    "locations_bad": ["us only", "usa only", "us-based", "us based", "onsite", "on-site", "in-office", "hybrid", "relocation"],
+    "rate_usd_hour": 50
+  }
+}

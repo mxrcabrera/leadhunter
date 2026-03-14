@@ -1,0 +1,22 @@
+{
+  "name": "leadhunter",
+  "version": "2.0.0",
+  "description": "CRM para busqueda de trabajo freelance con categorias y RAG",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "db:init": "node src/db/init.js",
+    "scrape": "node src/scrapers/run-all.js",
+    "scrape:hn": "node src/scrapers/hackernews.js",
+    "scrape:reddit": "node src/scrapers/reddit.js",
+    "scrape:remoteok": "node src/scrapers/remoteok.js",
+    "classify": "node src/rag/classify-leads.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "better-sqlite3": "^12.5.0",
+    "cheerio": "^1.1.2",
+    "express": "^4.21.0",
+    "ollama": "^0.6.3"
+  }
+}
