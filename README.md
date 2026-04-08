@@ -18,7 +18,7 @@ AI-powered lead hunting system that scrapes multiple job sources, scores leads b
 | Runtime | Node.js (ES Modules) |
 | Server | Express.js |
 | Database | SQLite (better-sqlite3) |
-| AI/LLM | Ollama (local — mistral, qwen2.5:7b) |
+| AI/LLM | Ollama (local — qwen2.5-coder:14b) |
 | Scraping | Cheerio + Axios |
 | Frontend | Vanilla HTML/CSS/JS (single-page) |
 
@@ -41,7 +41,7 @@ npm run scrape
 ### Prerequisites
 
 - **Node.js** 18+
-- **Ollama** running locally at `http://localhost:11434` with a model pulled (e.g., `ollama pull mistral`)
+- **Ollama** running locally at `http://localhost:11434` with qwen2.5-coder:14b model pulled (`ollama pull qwen2.5-coder:14b`)
 
 ### Available Scripts
 
